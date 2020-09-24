@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1061 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TriangleTest.vcxproj -> C:\Users\alex_\OneDrive\Documents\Visual Studio 2019\Projects\TriangleTest\x64\Release\IntroTriangle.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Intro3D.vcxproj -> C:\Users\alex_\OneDrive\Documents\Visual Studio 2019\Projects\TriangleTest\x64\Debug\Intro3D.exe
